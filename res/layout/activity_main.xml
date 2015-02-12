@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+</LinearLayout>
+
+<!-- https://maps.googleapis.com/maps/api/place/search/json?location=39.0997,-94.5786&radius=100&sensor=true&key=AIzaSyCpXAci6hdrmuZXcsqzzSBd2jddlRZ4z8w -->
